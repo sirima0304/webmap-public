@@ -1,0 +1,1 @@
+var json__4 = {"type":"FeatureCollection","name":"_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ชื่�":"โรงพยาบาลมหาชัยแม่กลอง","ละต�":13.38749,"ลอง�":99.99399,"ประ�":"โรงพยาบาลเอกชน"},"geometry":{"type":"Point","coordinates":[99.993991,13.387493]}}]}

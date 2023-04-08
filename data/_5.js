@@ -1,0 +1,1 @@
+var json__5 = {"type":"FeatureCollection","name":"_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ชื่�":"โรงพยาบาลสมเด็จพระพุทธเลิศหล้า","ละต�":13.40671,"ลอง�":99.9982,"ประ�":"โรงพยาบาลศูนย์/โรงพยาบาลทั่วไป"},"geometry":{"type":"Point","coordinates":[99.998199,13.406708]}}]}
